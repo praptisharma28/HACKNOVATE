@@ -5,6 +5,7 @@ Predicting Dyslexia using Machine Learning.
 
 ● There are a series of questions that need to be answered by the user, and on the basis of the results, scores are given for language, memory, speed,
 visual and audio skills.
+
 ● The objective of this model is to give an accurate prediction of the chances of the user having dyslexia, using the above scores as input.
 
 Introduction of Dataset <br />
